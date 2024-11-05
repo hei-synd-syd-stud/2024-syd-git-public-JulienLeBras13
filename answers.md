@@ -27,11 +27,9 @@ Que signifie la chaîne de caractères au début ?
 
 Le commit `f5d4a3c` (hash abrégé) est le commit le plus récent sur la branche `main`.
 
-
 Que signifient HEAD et main ?
 
 `HEAD -> main` indique que `HEAD` pointe vers `main`, ce qui signifie que nous sommes actuellement sur la branche principale.
-
 
 Qu’est-ce qui se trouve après les parenthèses ?
 
@@ -46,5 +44,25 @@ Lors du retour au dernier commit le dossier à retrouver sont état de ce dernie
 ## Gitgraph
 
 ### Task 7
+
+1) branch "develop"
+
+2) git hash abrégé "baa6795"
+
+3) changement 
+
+4) Autheur
+
+5) version
+
+6) commit final de la branch develop
+
+7) commit de la branch feature-auth
+
+8) commit de la branch main
+
+9) branch develop
+
+10) branch main
 
 ![Gitgraph](img/gitgraph.svg)
