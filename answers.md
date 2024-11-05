@@ -39,6 +39,10 @@ Le message du commit est `Added user authentication feature`, ce qui décrit bri
 
 ### Task 6
 
+Lors du retour sur le commit "Initial commit" le dossier s'est retrouvé dans l'état dans lequel il était lors de ce commit, cad answer.md inchangé et README.md non créer.
+
+Lors du retour au dernier commit le dossier à retrouver sont état de ce dernier commit, fichier answer.md modifier et README.md créer et modifier.
+
 ## Gitgraph
 
 ### Task 7
